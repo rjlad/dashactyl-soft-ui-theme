@@ -2,7 +2,7 @@
 Hello,you are searching for free dashactyl theme dark here one.
 # how to setup it?
 1. Download this github repo
-2. Upload everything to the dashactyl folder
+2. Upload everything to the dashactyl folder but the dark folder added in dashactyl folder in assets
 change defaulttheme: 
 ```
 {
