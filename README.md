@@ -29,8 +29,8 @@ change it to soft
 4. done! you have installed and activated the theme.
 
 ## Screenshots
-![dash](https://github.com/manouel-dev/dashactyl-soft-ui-theme/blob/master/screenshots/dash.png)
-![create](https://github.com/manouel-dev/dashactyl-soft-ui-theme/blob/master/screenshots/create.png)
-![servers](https://github.com/manouel-dev/dashactyl-soft-ui-theme/blob/master/screenshots/servers.png)
-![store](https://github.com/manouel-dev/dashactyl-soft-ui-theme/blob/master/screenshots/store.png)
-![admin](https://github.com/manouel-dev/dashactyl-soft-ui-theme/blob/master/screenshots/admin.png)
+![dash](https://github.com/rjlad/dashactyl-soft-ui-theme/blob/master/screenshots/dash.png)
+![create](https://github.com/rjlad/dashactyl-soft-ui-theme/blob/master/screenshots/create.png)
+![servers](https://github.com/rjlad/dashactyl-soft-ui-theme/blob/master/screenshots/servers.png)
+![store](https://github.com/rjlad/dashactyl-soft-ui-theme/blob/master/screenshots/store.png)
+![admin](https://github.com/rjlad/dashactyl-soft-ui-theme/blob/master/screenshots/admin.png)
